@@ -1,0 +1,40 @@
+h1 { 
+    font-size: 36px;
+    font-family: gotham;
+    font-type: regular;
+    text-align: center;
+    margin-bottom: 15px;
+    background-color: #33434d;
+    color: white;
+    }
+    
+    a {
+      font-size: 20px;
+      font-family: lato;
+      font-type: black;
+      color: #33434d;
+    }
+    
+    body {
+      font-family: system-ui;
+      background: #dda4d5;
+      color: #white;
+      text-align: left;
+    }
+    
+    p {
+      font-size: 18px;
+      font-family: arial;
+      font-type: light;
+      color: #white;
+      
+      img{
+        height: 200px;
+        
+      
+      }
+      
+    }
+      
+      
+    
